@@ -1,0 +1,9 @@
+torch>=2.0.0
+transformers>=4.40.0
+accelerate>=0.26.0
+deepspeed>=0.12.0
+datasets>=2.14.0
+safetensors
+fschat==0.2.31
+shortuuid
+tqdm

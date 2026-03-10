@@ -1,0 +1,10 @@
+results/
+eagle_datas/
+models/
+checkpoints/
+*.log
+__pycache__/
+*.pyc
+*.egg-info/
+.DS_Store
+*.ckpt
