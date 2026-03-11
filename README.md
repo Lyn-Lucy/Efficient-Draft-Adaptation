@@ -4,6 +4,8 @@
 
 > We propose **EDA**, a transferable speculative decoding framework that adapts a single draft model to multiple domain-specific LLMs (Math, Code, Medical) with only ~43% trainable parameters, achieving 2.87×–3.45× speedup across domains.
 
+📄 **Paper**: [arxiv.org/abs/2603.09527](https://arxiv.org/abs/2603.09527)
+
 ---
 
 ## 🔍 Overview
@@ -182,10 +184,11 @@ python eda/evaluation/extract_results.py results/eda_math_gsm8k/
 If you find this work useful, please cite:
 
 ```bibtex
-@article{eda2025,
+@article{lin2025eda,
   title={Efficient Domain Adaptation for Speculative Decoding via Shared-Private Mixture-of-Experts},
-  author={...},
-  year={2025}
+  author={Luxi Lin and Zhihang Lin and Zhanpeng Zeng and Yuhao Chen and Qingyu Zhang and Jixiang Luo and Xuelong Li and Rongrong Ji},
+  year={2025},
+  url={https://arxiv.org/abs/2603.09527}
 }
 ```
 
