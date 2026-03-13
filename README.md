@@ -1,10 +1,12 @@
 # ⚡ Efficient Draft Adaptation (EDA)
 
+<p align="center">
+<a href="https://arxiv.org/abs/2603.09527"> <img src='https://img.shields.io/badge/arXiv-2603.09527-b31b1b.svg'></a> 
+</p>
+
 **Efficient Domain Adaptation for Speculative Decoding via Shared-Private Mixture-of-Experts**
 
 > We propose **EDA**, a transferable speculative decoding framework that adapts a single draft model to multiple domain-specific LLMs (Math, Code, Medical) with only ~43% trainable parameters, achieving 2.87×–3.45× speedup across domains.
-
-📄 **Paper**: [arxiv.org/abs/2603.09527](https://arxiv.org/abs/2603.09527)
 
 ---
 
